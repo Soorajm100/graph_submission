@@ -1,4 +1,4 @@
-# Mentorship Network — CognoDB + FastAPI
+# Mentorship Network
 
 This repository contains a small FastAPI backend that connects to a CognoDB/Neo4j graph database. The sample dataset models a simple mentorship network where people know skills and mentor one another.
 
