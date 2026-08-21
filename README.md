@@ -30,3 +30,11 @@ Main queries
 - `GET /person/{id}`: fetch a person and immediate relations.
 - `GET /person/{id}/mentors`: find mentors up to 2 hops (multi-hop traversal).
 - `GET /person/{id}/peers`: find peers that share skills.
+
+DEMO
+
+
+
+https://github.com/user-attachments/assets/19730650-6d37-489c-9fae-30ed94d4c98e
+
+
